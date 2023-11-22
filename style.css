@@ -1,0 +1,21 @@
+.calculator {
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    padding: 20px;
+    background-color: #a29d9d;
+    border-radius: 5px;
+}
+
+input, button, p {
+    margin: 5px;
+}
+
+button {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+p {
+    font-weight: bold;
+}
